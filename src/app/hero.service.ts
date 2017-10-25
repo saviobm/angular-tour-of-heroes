@@ -11,12 +11,4 @@ export class HeroService {
 
     }
 
-    /**
-     * 
-     * 
-     *  TESTANDO O MERGE NO GIT
-     * 
-     * 
-     */
-
 }
