@@ -6,7 +6,7 @@ import { HeroService } from "./hero.service";
     selector: "my-dashboard",
     templateUrl: './dashboard.component.html',
 })
-export class DashBoardComponent implements OnInit {
+export class DashboardComponent implements OnInit {
 
     heroes: Hero [] = [];
 
